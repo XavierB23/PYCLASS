@@ -1,5 +1,6 @@
-"""
-title: Random Salary Lab
-author: A. Alexander
-date: 6/26/19 10:10 AM
-"""
+
+
+print(True and True)
+print(False and True)
+print(1 == 1 and 2 ==1)
+print("test" == "test")
